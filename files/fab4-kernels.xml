@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<kernels>
+  <kernel url="http://triodeplugins.googlecode.com/files/kernel-digitalout-1.bin" md5="b1df8c851322d1b2bba0d1507e7e8f2e">
+	<title>EDO Release Kernel</title>
+	<desc>USB DAC only kernel for test only - NB no support of default output</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test7.bin" md5="ad00f33feea78335737b311d515d5d55">
+	<title>USB Test Kernel #7</title>
+	<desc>USB DAC only kernel for test only - NB no support of default output</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test8.bin" md5="ff8763ea7373523d95e52f3334f402ab">
+	<title>USB Test Kernel #8</title>
+	<desc>USB DAC only kernel for dac tests - NB no support of default output</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test9.bin" md5="ae6a09bcb6fb0b8dcdcb4b952c92fa30">
+	<title>USB Test Kernel #9</title>
+	<desc>USB DAC only kernel for dac tests - NB no support of default output</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test10.bin" md5="6c539931c39023e237f7e61e1450010f">
+	<title>USB Test Kernel #10</title>
+	<desc>USB DAC only kernel - feedback debug version, ssh to device and type dmesg to see log</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test11.bin" md5="c1e538e10fbe3d928ffb35f37f54e782">
+	<title>USB Test Kernel #11</title>
+	<desc>USB DAC only kernel - Tenor TE8802 workaround #1</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test12.bin" md5="b616224aab066aaa0fa978b62a30d63e">
+	<title>USB Test Kernel #12</title>
+	<desc>USB DAC only kernel - Tenor TE8802 workaround #2</desc>
+  </kernel>
+  <kernel url="http://xdevtriodeplugins.xpdev-hosted.com/kernel-test13.bin" md5="5dd07a6aec507f056f33e56c6090c69c">
+	<title>USB Test Kernel #13</title>
+	<desc>USB DAC only kernel - Ignore mixer control error</desc>
+  </kernel>
+</kernels>
