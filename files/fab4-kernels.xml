@@ -4,6 +4,10 @@
 	<title>EDO Release Kernel</title>
 	<desc>USB DAC only kernel for test only - NB no support of default output</desc>
   </kernel>
+  <kernel url="http://ralph_irving.users.sourceforge.net/edo/kernel-test7.bin" md5="ad00f33feea78335737b311d515d5d55">
+	<title>USB Test Kernel #7</title>
+	<desc>USB DAC only kernel for test only - NB no support of default output</desc>
+  </kernel>
   <kernel url="http://ralph_irving.users.sourceforge.net/edo/kernel-test11.bin" md5="c1e538e10fbe3d928ffb35f37f54e782">
 	<title>USB Test Kernel #11</title>
 	<desc>USB DAC only kernel - Tenor TE8802 workaround #1</desc>
