@@ -47,7 +47,7 @@ oo.class(_M, Applet)
 
 
 -- find test kernels from this url
-local kernels = "http://ralph_irving.users.sourceforge.net/edo/fab4-kernels.xml"
+local kernels = "http://ralph.irving.sdf.org/edo/fab4-kernels.xml"
 
 
 function menu(self, menuItem)
